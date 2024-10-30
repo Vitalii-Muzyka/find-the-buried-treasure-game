@@ -1,1 +1,1 @@
-# find-the-buried-treasure-game
+# Find The Buried Treasure
